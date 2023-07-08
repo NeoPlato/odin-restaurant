@@ -1,0 +1,27 @@
+{
+  "name": "odin-restaurant",
+  "version": "0.0.0",
+  "description": "A restaurant page that advertises human food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NeoPlato/odin-restaurant.git"
+  },
+  "keywords": [
+    "javascript",
+    "html"
+  ],
+  "author": "NeoPlato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeoPlato/odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/NeoPlato/odin-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
